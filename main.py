@@ -1,3 +1,2 @@
-print('too hot in here')
 
-print('надо удалить')
+print('не надо удалять')
