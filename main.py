@@ -1,6 +1,5 @@
-print('too hot in here')
 
-print('надо удалить')
+print('надо убраться')
 
 a = 32
 b = a/10
